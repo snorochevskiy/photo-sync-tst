@@ -1,0 +1,13 @@
+[package]
+name = "photo-sync-tst"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10.8"
+redb = "2.0.0"
+anyhow = "1"
+thiserror = "1"
+itertools = "0.12.1"
+log = "0.4.21"
+hex-literal = "0.4.1"
